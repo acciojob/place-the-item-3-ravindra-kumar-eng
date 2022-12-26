@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+.holder{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: yellow;
+    height: 20vh;
+
+}
+.flex-div{
+    background-color: blue;
+
+}
